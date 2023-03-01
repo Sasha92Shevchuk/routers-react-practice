@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/routers-react-practice/static/css/main.7acaea2f.css",
+    "main.js": "/routers-react-practice/static/js/main.08cf87f0.js",
+    "static/js/743.e127653e.chunk.js": "/routers-react-practice/static/js/743.e127653e.chunk.js",
+    "static/js/7.30e7b04d.chunk.js": "/routers-react-practice/static/js/7.30e7b04d.chunk.js",
+    "static/js/828.7ae4bdc2.chunk.js": "/routers-react-practice/static/js/828.7ae4bdc2.chunk.js",
+    "index.html": "/routers-react-practice/index.html",
+    "main.7acaea2f.css.map": "/routers-react-practice/static/css/main.7acaea2f.css.map",
+    "main.08cf87f0.js.map": "/routers-react-practice/static/js/main.08cf87f0.js.map",
+    "743.e127653e.chunk.js.map": "/routers-react-practice/static/js/743.e127653e.chunk.js.map",
+    "7.30e7b04d.chunk.js.map": "/routers-react-practice/static/js/7.30e7b04d.chunk.js.map",
+    "828.7ae4bdc2.chunk.js.map": "/routers-react-practice/static/js/828.7ae4bdc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.08cf87f0.js"
+  ]
+}
